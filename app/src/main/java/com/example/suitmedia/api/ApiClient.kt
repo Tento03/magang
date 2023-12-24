@@ -1,6 +1,4 @@
 package com.example.suitmedia.api
-
-// src/main/java/com/example/yourapp/ApiClient.kt
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
